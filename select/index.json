@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "day break",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:12:26.512441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "The Brand New Heavies",
+      "has_synced": true,
+      "path": "select/01_Day_Break_The_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Frankmusik",
+      "has_synced": true,
+      "path": "select/02_Day_Break_Frankmusik.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Day Break Africa (feat. Kwesi Arthur & Joey B)",
+      "artist": "Omar Sterling",
+      "has_synced": false,
+      "path": "select/03_Day_Break_Africa_(feat._Kwesi_Arthur_&_Joey_B)_Omar_Sterling.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Ann, Stevie",
+      "has_synced": false,
+      "path": "select/04_Day_Break_Ann,_Stevie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Stevie Ann",
+      "has_synced": false,
+      "path": "select/05_Day_Break_Stevie_Ann.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Skeng",
+      "has_synced": true,
+      "path": "select/06_Day_Break_Skeng.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DAY BREAK",
+      "artist": "HUSKING BEE",
+      "has_synced": false,
+      "path": "select/07_DAY_BREAK_HUSKING_BEE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "MOEC",
+      "has_synced": false,
+      "path": "select/08_Day_Break_MOEC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/09_Day_Break_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day Break (2024 Remaster)",
+      "artist": "The Brand New Heavies",
+      "has_synced": true,
+      "path": "select/10_Day_Break_(2024_Remaster)_The_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Frankmusik",
+      "has_synced": false,
+      "path": "select/11_Day_Break_Frankmusik.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day Break (Live in London)",
+      "artist": "The Brand New Heavies",
+      "has_synced": false,
+      "path": "select/12_Day_Break_(Live_in_London)_The_Brand_New_Heavies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day Break",
+      "artist": "Brand New Heavies",
+      "has_synced": true,
+      "path": "select/13_Day_Break_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "day break",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_day_break_三月のパンタシア.txt"
+    }
+  ]
+}
